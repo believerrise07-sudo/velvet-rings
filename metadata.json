@@ -1,0 +1,6 @@
+{
+  "name": "Velvet - Creator Subscription Platform",
+  "description": "A sophisticated, secure, and beautiful subscription platform for content creators, featuring dynamic unlocked feeds, pay-per-view (PPV) unlocking, robust role-based accounts, and interactive payment simulations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
